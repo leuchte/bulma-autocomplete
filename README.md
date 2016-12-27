@@ -1,4 +1,4 @@
-[Bulma CSS Framework Autocomplete for Sublime Text 3](https://bulma.io)
+[Bulma CSS Framework Autocomplete for Sublime Text 3](http://bulma.io)
 =============
 
 Sublime Text autocomplete plugin for the Bulma CSS Framework
